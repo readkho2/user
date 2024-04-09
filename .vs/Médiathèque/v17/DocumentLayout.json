@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\M\u00E9diath\u00E8que\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D603A8B9-CFD6-4AAE-BBB6-2FD2300C3810}|M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que.csproj|c:\\users\\user\\source\\repos\\m\u00E9diath\u00E8que\\m\u00E9diath\u00E8que\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603A8B9-CFD6-4AAE-BBB6-2FD2300C3810}|M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que.csproj|solutionrelative:m\u00E9diath\u00E8que\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603A8B9-CFD6-4AAE-BBB6-2FD2300C3810}|M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que.csproj|c:\\users\\user\\source\\repos\\m\u00E9diath\u00E8que\\m\u00E9diath\u00E8que\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603A8B9-CFD6-4AAE-BBB6-2FD2300C3810}|M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que.csproj|solutionrelative:m\u00E9diath\u00E8que\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603A8B9-CFD6-4AAE-BBB6-2FD2300C3810}|M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que.csproj|c:\\users\\user\\source\\repos\\m\u00E9diath\u00E8que\\m\u00E9diath\u00E8que\\objet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603A8B9-CFD6-4AAE-BBB6-2FD2300C3810}|M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que.csproj|solutionrelative:m\u00E9diath\u00E8que\\objet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603A8B9-CFD6-4AAE-BBB6-2FD2300C3810}|M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que.csproj|c:\\users\\user\\source\\repos\\m\u00E9diath\u00E8que\\m\u00E9diath\u00E8que\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603A8B9-CFD6-4AAE-BBB6-2FD2300C3810}|M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que.csproj|solutionrelative:m\u00E9diath\u00E8que\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CD.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que\\CD.cs",
+              "RelativeDocumentMoniker": "M\u00E9diath\u00E8que\\CD.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que\\CD.cs",
+              "RelativeToolTip": "M\u00E9diath\u00E8que\\CD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:57:17.187Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "livre.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que\\livre.cs",
+              "RelativeDocumentMoniker": "M\u00E9diath\u00E8que\\livre.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que\\livre.cs",
+              "RelativeToolTip": "M\u00E9diath\u00E8que\\livre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:46:12.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "objet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que\\objet.cs",
+              "RelativeDocumentMoniker": "M\u00E9diath\u00E8que\\objet.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que\\objet.cs",
+              "RelativeToolTip": "M\u00E9diath\u00E8que\\objet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:42:16.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que\\Program.cs",
+              "RelativeDocumentMoniker": "M\u00E9diath\u00E8que\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\M\u00E9diath\u00E8que\\M\u00E9diath\u00E8que\\Program.cs",
+              "RelativeToolTip": "M\u00E9diath\u00E8que\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:34:49.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
